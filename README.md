@@ -1,1 +1,2 @@
-# Jane
+a="hello everyone"
+Print(a[1:])
