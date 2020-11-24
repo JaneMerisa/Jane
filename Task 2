@@ -1,0 +1,18 @@
+a = a / 10
+ b = b * 50 
+c = c + 60
+ print(a, b, c)
+
+Plyr = "TN" 
+print(len(Plyr)) 
+Plyr = Plyr.replace(Plyr[2],'G') 
+print(Plyr)
+
+a, pie = 18, 3.14 
+print(a, 'is in the type of:', 
+type(a)) a = float(a)
+ print(a, 'is in the type of:', type(a))
+
+print(pie, 'is in the type of:', type(pie)) 
+pie = int(pie) 
+print(pie, 'is in the type of:', type(pie))
